@@ -1,5 +1,9 @@
+
+<div align='center'>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/55c8ac2f-b4af-44c2-9266-37db07f857eb/deploy-status)](https://app.netlify.com/sites/brenorocha/deploys)
 
+</div>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
