@@ -1,0 +1,333 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "./src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "eygJxeRspPrtKABTYb2Jd2",
+      "projectName": "brenorocha.dev",
+      "version": "latest",
+      "cssFilePath": "plasmic/brenorocha_dev/plasmic_brenorocha_dev.css",
+      "components": [
+        {
+          "id": "ZY2oovOnA1",
+          "name": "Astronaut",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicAstronaut.tsx",
+          "importSpec": {
+            "modulePath": "Astronaut.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicAstronaut.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "iTUWmT1Up8N",
+          "name": "FooterWrapper",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicFooterWrapper.tsx",
+          "importSpec": {
+            "modulePath": "FooterWrapper.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicFooterWrapper.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "qdormx9dnp",
+          "name": "FirstSection",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicFirstSection.tsx",
+          "importSpec": {
+            "modulePath": "FirstSection.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicFirstSection.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "Myj_maqtK6S",
+          "name": "SecondSection",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicSecondSection.tsx",
+          "importSpec": {
+            "modulePath": "SecondSection.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicSecondSection.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "-G_lGD-Bdf",
+          "name": "SpaceWrapper",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicSpaceWrapper.tsx",
+          "importSpec": {
+            "modulePath": "SpaceWrapper.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicSpaceWrapper.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "kF34L4sqRO",
+          "name": "CurlyBraces",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicCurlyBraces.tsx",
+          "importSpec": {
+            "modulePath": "CurlyBraces.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicCurlyBraces.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "6wel9emd8p",
+          "name": "HeroHeader",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicHeroHeader.tsx",
+          "importSpec": {
+            "modulePath": "HeroHeader.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicHeroHeader.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "YHYSNfLior",
+          "name": "CurlyBracesEnd",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicCurlyBracesEnd.tsx",
+          "importSpec": {
+            "modulePath": "CurlyBracesEnd.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicCurlyBracesEnd.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "aY6SZMMm-p",
+          "name": "Home",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicHome.tsx",
+          "importSpec": {
+            "modulePath": "Home.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicHome.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "8fOMVhrXUa",
+          "name": "BuyMeCoffeeText",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicBuyMeCoffeeText.tsx",
+          "importSpec": {
+            "modulePath": "BuyMeCoffeeText.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicBuyMeCoffeeText.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "WoUevCP7iO",
+          "name": "WelcomeText",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicWelcomeText.tsx",
+          "importSpec": {
+            "modulePath": "WelcomeText.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicWelcomeText.css",
+          "scheme": "blackbox"
+        },
+        {
+          "id": "k0o1cf5e_p",
+          "name": "HiddenHeader",
+          "type": "managed",
+          "projectId": "eygJxeRspPrtKABTYb2Jd2",
+          "renderModuleFilePath": "plasmic/brenorocha_dev/PlasmicHiddenHeader.tsx",
+          "importSpec": {
+            "modulePath": "HiddenHeader.tsx"
+          },
+          "cssFilePath": "plasmic/brenorocha_dev/PlasmicHiddenHeader.css",
+          "scheme": "blackbox"
+        }
+      ],
+      "icons": [
+        {
+          "id": "Cl8LzJEY44",
+          "name": "Ellipse1Ellipse4Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Ellipse1Ellipse4.tsx"
+        },
+        {
+          "id": "TOboHfqXDD",
+          "name": "NavButtonEllipse1Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__NavButtonEllipse1.tsx"
+        },
+        {
+          "id": "Gu4wjWaJ6G",
+          "name": "Ellipse4ScreenshotFrom202010060103171Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Ellipse4ScreenshotFrom202010060103171.tsx"
+        },
+        {
+          "id": "ltiWiGrBxH",
+          "name": "Ellipse1Screenshot202010060125451Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Ellipse1Screenshot202010060125451.tsx"
+        },
+        {
+          "id": "BNkyeMMuvlp",
+          "name": "Ellipse4Ellipse5Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Ellipse4Ellipse5.tsx"
+        },
+        {
+          "id": "14xmxf1zJUj",
+          "name": "Ellipse10Ellipse5Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Ellipse10Ellipse5.tsx"
+        },
+        {
+          "id": "BAwN_hkeb5m",
+          "name": "Ellipse6Ellipse5Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Ellipse6Ellipse5.tsx"
+        },
+        {
+          "id": "Ge8O8ujS-Cf",
+          "name": "Ellipse7Ellipse5Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Ellipse7Ellipse5.tsx"
+        },
+        {
+          "id": "Xs2NLDHFioq",
+          "name": "VectorIcon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector.tsx"
+        },
+        {
+          "id": "gnipYdtQf88",
+          "name": "Vector2Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector2.tsx"
+        },
+        {
+          "id": "BCeeO0c3N8r",
+          "name": "Vector3Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector3.tsx"
+        },
+        {
+          "id": "eQTXAVevhk5",
+          "name": "Vector4Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector4.tsx"
+        },
+        {
+          "id": "ANOo1lWgFbR",
+          "name": "Vector5Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector5.tsx"
+        },
+        {
+          "id": "DhiFPxQ7XAo",
+          "name": "Vector6Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector6.tsx"
+        },
+        {
+          "id": "WnYJ9wgTZGO",
+          "name": "Vector7Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector7.tsx"
+        },
+        {
+          "id": "8od9Py8BsXR",
+          "name": "Vector8Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector8.tsx"
+        },
+        {
+          "id": "RwSypOnyZWC",
+          "name": "Vector9Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector9.tsx"
+        },
+        {
+          "id": "94-3X-hLh7n",
+          "name": "Vector10Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector10.tsx"
+        },
+        {
+          "id": "Bbkju6SdCe-",
+          "name": "SoftwareEngineerIcon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__SoftwareEngineer.tsx"
+        },
+        {
+          "id": "6KLz-itN8e0",
+          "name": "BrenoRochaIcon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__BrenoRocha.tsx"
+        },
+        {
+          "id": "BfWaJ5a4yxy",
+          "name": "IBuildCreativeStuffAndWebSolutionsIcon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__IBuildCreativeStuffAndWebSolutions.tsx"
+        },
+        {
+          "id": "apFMqbzLSD",
+          "name": "IconIcon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Icon.tsx"
+        },
+        {
+          "id": "rkRn5vbpaJ",
+          "name": "Icon2Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Icon2.tsx"
+        },
+        {
+          "id": "QpIW3BixvU",
+          "name": "Icon3Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Icon3.tsx"
+        },
+        {
+          "id": "d52olDa5nn",
+          "name": "Icon4Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Icon4.tsx"
+        },
+        {
+          "id": "N4ifCofYyN",
+          "name": "Icon5Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Icon5.tsx"
+        },
+        {
+          "id": "KIGsJ9Uyq",
+          "name": "Vector11Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector11.tsx"
+        },
+        {
+          "id": "qCvB3WQj-r",
+          "name": "Vector12Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector12.tsx"
+        },
+        {
+          "id": "r6fY-Nt5rT",
+          "name": "Vector13Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector13.tsx"
+        },
+        {
+          "id": "wje5UrvlNe",
+          "name": "Vector14Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector14.tsx"
+        },
+        {
+          "id": "eQC6hcq69U",
+          "name": "Vector15Icon",
+          "moduleFilePath": "plasmic/brenorocha_dev/PlasmicIcon__Vector15.tsx"
+        }
+      ],
+      "jsBundleThemes": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": []
+  },
+  "cliVersion": "0.1.59"
+}

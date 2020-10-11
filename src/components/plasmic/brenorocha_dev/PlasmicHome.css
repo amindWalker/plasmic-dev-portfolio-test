@@ -1,0 +1,213 @@
+.Home__root__QJolw {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  color: #535353;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  display: flex;
+  position: relative;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-image: linear-gradient(0deg, rgb(0, 0, 0) 58%, rgb(0, 0, 38) 100%)
+    /* plasmic-token: 1QqC64tVx */;
+  background-origin: padding-box;
+  background-position: 0% 0%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  align-items: stretch;
+  justify-content: center;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+.Home__figmaPaste__TIXhE {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  align-self: center;
+  bottom: auto;
+  flex-direction: column;
+  right: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.Home__curlyBracesInit__Ymy9z.__wab_instance {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 232px;
+  align-self: flex-start;
+}
+.Home__box__9_NQw {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  align-self: center;
+  right: 0;
+  bottom: 7506px;
+  left: 1209px;
+  width: auto;
+  height: auto;
+}
+.Home__svg__sUs-d {
+  object-fit: cover;
+  width: 495px;
+  height: 1724px;
+  color: #239c58;
+  display: block;
+  transform: scale(1, 1) rotate(0deg);
+  opacity: 0.5;
+  position: absolute;
+  bottom: auto;
+  top: 985px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.Home__root__QJolw .Home__svg__sUs-d:not(:hover) {
+  opacity: 0.8;
+}
+.Home__box__wShSu {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 577px;
+  width: auto;
+  height: auto;
+}
+.Home__svg__4BUNg {
+  object-fit: cover;
+  width: 2014px;
+  height: 1709px;
+  color: #d72d2d;
+  display: block;
+  transform: scale(1, 1) rotate(0deg);
+  opacity: 0.5;
+  position: absolute;
+  top: 90px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.Home__root__QJolw .Home__svg__4BUNg:not(:hover) {
+  opacity: 0.8;
+}
+.Home__box__ffbVN {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  left: -190px;
+  align-self: center;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  width: auto;
+  height: auto;
+}
+.Home__svg__hVkRz {
+  object-fit: cover;
+  width: 2708px;
+  height: 2510px;
+  color: #9850db;
+  display: block;
+  transform: scale(1, 1) rotate(0deg);
+  opacity: 0.5;
+  position: absolute;
+  top: 1447px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.Home__root__QJolw .Home__svg__hVkRz:not(:hover) {
+  opacity: 0.8;
+}
+.Home__box__kq7kw {
+  display: flex;
+  position: relative;
+  width: 100%;
+  flex-direction: column;
+  height: 4411px;
+  align-self: flex-start;
+  align-items: center;
+  justify-content: flex-start;
+}
+.Home__hiddenHeader__Rg7x2.__wab_instance {
+  position: absolute;
+  top: 0;
+  bottom: 4264px;
+  z-index: 1;
+  align-self: center;
+  width: 1258px;
+  height: default;
+  left: auto;
+}
+.Home__root__QJolw:hover .Home__hiddenHeader__Rg7x2.__wab_instance {
+}
+.Home__heroHeader__Ujo7A.__wab_instance {
+  height: 1127px;
+  flex-shrink: 0;
+}
+.Home__firstSection__y0zCa.__wab_instance {
+  position: relative;
+}
+.Home__secondSection__R1Tci.__wab_instance {
+  position: relative;
+  align-self: center;
+  height: default;
+}
+.Home__spaceWrapper__fMB-R.__wab_instance {
+  position: absolute;
+  align-self: center;
+  top: 4306px;
+  width: 100%;
+  height: 5892px;
+  flex-shrink: 0;
+}
+.Home__box__bG_9o {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  top: 9250px;
+  align-self: flex-end;
+}
+.Home__footerWrapper__b4uG1.__wab_instance {
+  position: relative;
+  left: auto;
+  top: auto;
+  height: default;
+}
+.Home__welcomeText__bLOlv.__wab_instance {
+  position: absolute;
+  top: -2171px;
+  align-self: center;
+  width: default;
+  height: default;
+}
+.Home__buyMeCoffeeText__NaIty.__wab_instance {
+  position: absolute;
+  top: 407px;
+  left: 0;
+  right: 967px;
+  width: default;
+  height: default;
+}

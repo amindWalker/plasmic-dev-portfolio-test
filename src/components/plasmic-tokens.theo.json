@@ -1,0 +1,19 @@
+{
+  "props": [
+    {
+      "name": "defaultbg-1",
+      "type": "color",
+      "value": "rgb(0,0,38)",
+      "category": "color",
+      "meta": {
+        "projectId": "eygJxeRspPrtKABTYb2Jd2",
+        "id": "1QqC64tVx"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+.BuyMeCoffeeText__buyMeCoffee__Ytpcw {
+  font-family: "Montserrat";
+  font-size: 32px;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  opacity: 0.5;
+  width: auto;
+  position: relative;
+  transition: all 1s;
+}
+.BuyMeCoffeeText__buyMeCoffee__Ytpcw {
+  animation: float 5s ease-in-out infinite;
+}
+
+@keyframes float {
+  50% {
+     transform: translate(0, 16px);
+  }
+}
+.BuyMeCoffeeText__buyMeCoffee__Ytpcw:hover {
+  opacity: 0.9;
+}
+.BuyMeCoffeeText__buyMeCoffee__Ytpcw:not(:active) {
+}

@@ -1,0 +1,21 @@
+.WelcomeText__welcome__nXmUU {
+  font-family: "Montserrat";
+  font-size: 32px;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+  opacity: 0.15;
+  cursor: pointer;
+  position: relative;
+  transition: all 2s ease-in-out;
+}
+.WelcomeText__welcome__nXmUU:hover {
+  text-align: center;
+  opacity: 0.9;
+  transition: all 1s ease-in-out;
+}
