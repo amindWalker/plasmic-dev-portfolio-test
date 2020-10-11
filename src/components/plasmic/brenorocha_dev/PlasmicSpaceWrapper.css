@@ -25,14 +25,14 @@
   background-size: 100% 100%;
   overflow: hidden;
 }
-.SpaceWrapper__starArray__pLmSA {
+/* .SpaceWrapper__starArray__pLmSA {
   animation: clockwise 1000s linear infinite;
 }
 
 @keyframes clockwise {
   0% { transform: rotate(0deg) }
   100% { transform: rotate(360deg) }
-}
+} */
 .SpaceWrapper__starArray__pLmSA {
   position: absolute;
   object-fit: cover;
