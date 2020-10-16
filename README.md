@@ -5,6 +5,14 @@
 
 </div>
 
+- [x] Deploy initial alpha version. Testing Plasmic.
+- [x] Add basic animations.
+- [ ] Fix scaling.
+- [ ] Fix responsive design.
+- [ ] Adapt to styled-components.
+- [ ] Unit testing
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
